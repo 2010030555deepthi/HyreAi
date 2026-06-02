@@ -29,5 +29,7 @@ npm install
 npm run dev
 
 ## Screenshot
-<img src="C:\Users\Sanke\OneDrive\Desktop\a.png">
+<img width="1918" height="1077" alt="a" src="https://github.com/user-attachments/assets/0e58a498-f981-46d5-8934-026956e110ef" />
+
+
 
