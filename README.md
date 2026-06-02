@@ -29,3 +29,5 @@ npm install
 npm run dev
 
 ## Screenshot
+<img src="C:\Users\Sanke\OneDrive\Desktop\a.png">
+
